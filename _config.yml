@@ -30,6 +30,8 @@ url: "" # the base hostname & protocol for your site
 facebook_url: https://www.facebook.com/157239n
 github_url: http://github.com/157239n/
 
+port: 443
+
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
 collections: [sections]
