@@ -23,8 +23,8 @@ email: 157239q@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://phongqle.github.io/" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url: https://www.facebook.com/157239n
