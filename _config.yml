@@ -34,6 +34,11 @@ github_url: http://github.com/157239n/
 theme: jekyll-theme-prologue
 collections: [sections]
 
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
