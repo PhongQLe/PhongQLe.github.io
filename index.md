@@ -6,5 +6,4 @@ layout: home
 title: "Home"
 icon: fa-home
 order: 0
-permalink: "/index.html"
 ---
