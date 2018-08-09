@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+icon: fa-user
 order: 1
 permalink: /main/about/
 ---
