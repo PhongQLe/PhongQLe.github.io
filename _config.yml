@@ -39,6 +39,12 @@ collections: [sections]
 markdown: kramdown
 permalink: /:year/:title:output_ext
 
+defaults:
+  - scope:
+      path: "assets/images/gallery"
+    values:
+      gallery_images: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

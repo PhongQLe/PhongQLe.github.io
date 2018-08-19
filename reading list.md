@@ -2,7 +2,7 @@
 title: Reading List
 layout: page
 icon: fa-book
-order: 3
+order: 6
 permalink: /main/reading-list/
 ---
 List of books about random things:
